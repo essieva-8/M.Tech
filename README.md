@@ -11,7 +11,7 @@ The main analysis is contained in the Colab notebook:
 
 ---
 
-### Assignment Overview
+### Overview
 
 The 7-step process followed in the notebook is:
 1.  **Environment Setup:** Importing `pandas`, `mlxtend`, and `openpyxl`.
