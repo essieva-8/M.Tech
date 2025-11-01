@@ -1,6 +1,6 @@
 # Association Rule mining from transaction dataset
 
-This project performs Association Rule mining on the "Online Retail" dataset from the UCI Machine Learning Repository. It uses the Apriori and FP-Growth algorithms to identify frequent itemsets and generate association rules.
+This assignment performs Association Rule mining on the "Online Retail" dataset from the UCI Machine Learning Repository. It uses the Apriori and FP-Growth algorithms to identify frequent itemsets and generate association rules.
 
 ---
 
@@ -11,7 +11,7 @@ The main analysis is contained in the Colab notebook:
 
 ---
 
-### Project Overview
+### Assignment Overview
 
 The 7-step process followed in the notebook is:
 1.  **Environment Setup:** Importing `pandas`, `mlxtend`, and `openpyxl`.
